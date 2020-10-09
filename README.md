@@ -21,7 +21,7 @@ I’m calling myself a “coding enthusiast”.
 
 I’m using HTML/CSS, JS, Node.JS, PHP
 
-My main language is Franch but I’m trying my best to deliver in English for topics that you might be interested!
+My main language is French but I’m trying my best to deliver in English for topics that you might be interested!
 
 🔭 I’m currently working at [EdenSchool](https://www.edenschool.fr/)
 
