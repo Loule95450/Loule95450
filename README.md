@@ -2,6 +2,8 @@
 
 ### Hi there 👋, Welcome to my github profile!
 
+![](https://cdn.discordapp.com/emojis/413587898760429568.gif?v=1)![](https://cdn.discordapp.com/emojis/413587898856636416.gif?v=1)![](https://cdn.discordapp.com/emojis/413587898479149056.gif?v=1)![](https://cdn.discordapp.com/emojis/413587898869219328.gif?v=1)
+
 🤗 I’m calling myself a “coding enthusiast”.
 
 🙌 I’m using HTML/CSS, JS, Node.JS, PHP
