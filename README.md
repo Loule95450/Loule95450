@@ -1,29 +1,16 @@
-<!--
-**Loule95450/Loule95450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![](https://i.imgur.com/xloYyfA.png)
 
 ### Hi there 👋, Welcome to my github profile!
 
-I’m calling myself a “coding enthusiast”.
+🤗 I’m calling myself a “coding enthusiast”.
 
-I’m using HTML/CSS, JS, Node.JS, PHP
+🙌 I’m using HTML/CSS, JS, Node.JS, PHP
 
-My main language is French but I’m trying my best to deliver in English for topics that you might be interested!
+🙋‍♂️ My main language is French but I’m trying my best to deliver in English for topics that you might be interested!
 
 🔭 I’m currently working at [EdenSchool](https://www.edenschool.fr/)
+
+![](https://avatars0.githubusercontent.com/u/71653172?s=24) My EdenSchool Projects [here](https://github.com/EdenSchool-Repos)
 
 - 🌐 [loule.me](https://loule.me)
 - 💬 [Twitter](https://twitter.com/LouleLaMoule)
