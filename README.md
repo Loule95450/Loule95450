@@ -19,5 +19,7 @@
 - 📼 [YouTube](https://www.youtube.com/c/Loule95450)
 - 📝 [Dev.to](https://dev.to/loule/)
 
+![](https://hit.yhype.me/github/profile?user_id=35641311)
+
 ![](https://i.imgur.com/HtTkOPJ.png)
 
