@@ -14,10 +14,14 @@
 
 ![](https://avatars0.githubusercontent.com/u/71653172?s=24) My EdenSchool Projects [here](https://github.com/EdenSchool-Repos)
 
+[![GitHub stat's](https://github-readme-stats.vercel.app/api?username=Loule95450)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌐 [loule.me](https://loule.me)
 - 💬 [Twitter](https://twitter.com/LouleLaMoule)
 - 📼 [YouTube](https://www.youtube.com/c/Loule95450)
 - 📝 [Dev.to](https://dev.to/loule/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loule95450)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
 
 ![](https://hit.yhype.me/github/profile?user_id=35641311)
 
