@@ -11,9 +11,11 @@
 🙋‍♂️ My main language is French but I’m trying my best to deliver in English for topics that you might be interested!
 
 🔭 I’m currently working at [Coding Factory](https://codingfactory.fr/)
+
 🔭 [EdenSchool](https://www.edenschool.fr/)'s work
 
 ![](https://avatars0.githubusercontent.com/u/71653172?s=24) My Coding Factory Projects [here](https://github.com/CodingFactory-Repos)
+
 ![](https://avatars0.githubusercontent.com/u/71653172?s=24) My EdenSchool Projects [here](https://github.com/EdenSchool-Repos)
 
 [![GitHub stat's](https://github-readme-stats.vercel.app/api?username=Loule95450)](https://github.com/anuraghazra/github-readme-stats)
