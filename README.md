@@ -14,7 +14,7 @@
 
 🔭 [EdenSchool](https://www.edenschool.fr/)'s work
 
-![](https://avatars0.githubusercontent.com/u/71653172?s=24) My Coding Factory Projects [here](https://github.com/CodingFactory-Repos)
+![](https://avatars0.githubusercontent.com/u/91029631?s=24) My Coding Factory Projects [here](https://github.com/CodingFactory-Repos)
 
 ![](https://avatars0.githubusercontent.com/u/71653172?s=24) My EdenSchool Projects [here](https://github.com/EdenSchool-Repos)
 
