@@ -6,7 +6,7 @@
 
 🤗 I’m calling myself a “coding enthusiast”.
 
-🙌 I’m using HTML/CSS, JS, Node.JS, PHP
+🙌 I’m using HTML/CSS, JS, Node.JS, PHP, Java
 
 🙋‍♂️ My main language is French but I’m trying my best to deliver in English for topics that you might be interested!
 
